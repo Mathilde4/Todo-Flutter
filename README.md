@@ -5,7 +5,7 @@ Ce projet est une app développée avec flutter. Il permet de gérer les taches.
 
 Installation :
 
--Cloner le projet : git clone https://github.com/Mathilde4/Learning-FastAPI.git cd ton-repo
+-Cloner le projet : git clone https://github.com/Mathilde4/Todo-Flutter.git cd Todo-Flutter
 
 -S'assurer que flutter est bien installé : flutter doctor
 
