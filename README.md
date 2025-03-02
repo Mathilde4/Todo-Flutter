@@ -1,16 +1,18 @@
-# task_app
+Learning Flutter
 
-A new Flutter project.
+Ce projet est une app développée avec flutter. Il permet de gérer les taches. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Installation :
 
-A few resources to get you started if this is your first Flutter project:
+-Cloner le projet : git clone https://github.com/Mathilde4/Learning-FastAPI.git cd ton-repo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-S'assurer que flutter est bien installé : flutter doctor
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Intsller les dépendences : flutter pub get
+
+-Lancer le projet : flutter run
+
+Technologies utilisées : Frontend : Flutter
+
+Auteur : 👨‍💻 Mathilde 📧 Contact : mathibassadou@gmail.com
